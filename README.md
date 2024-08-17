@@ -16,7 +16,7 @@ The Heart Disease Prediction System is a web application designed to predict the
 To set up the Heart Disease Prediction System on your local machine, follow these steps:
 
 1. **Clone the Repository**:
-
+https://github.com/adityaboaz/Heart-Disease-Prediction.git
    ```bash
    
 Navigate to the Project Directory:
